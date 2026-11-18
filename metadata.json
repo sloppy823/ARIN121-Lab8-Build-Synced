@@ -1,0 +1,8 @@
+{
+  "name": "Interactive Quiz Generator",
+  "description": "Practice multiple-choice quiz generator for university students studying Lecture 1: History of AI with automated grading, notes-grounded feedback, and review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
